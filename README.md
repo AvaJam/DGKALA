@@ -1,4 +1,4 @@
-[README_md.md](https://github.com/user-attachments/files/32456301/README_md.md)
+[README_md.md](https://github.com/user-attachments/files/32456333/README_md.md)
 # Sentiment Analysis of Digikala Comments
 
 ## Project Overview
@@ -111,11 +111,8 @@ A **Confusion Matrix** was used to examine the model's classification performanc
 
 The Confusion Matrix shows how actual samples from each category were classified by the model and helps identify the types of classification errors.
 
-> Add the project's Confusion Matrix image here:
->
-> `![Confusion Matrix](confusion_matrix.png)`
 
-If the image is placed in the project folder with the name `confusion_matrix.png`, it will be displayed automatically in the README.
+> ![Confusion Matrix](./confusion_matrix.png)
 
 ---
 
