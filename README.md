@@ -16,6 +16,7 @@ The main goal is to build a machine-learning model that can identify the level o
 ## Project Goal
 
 The purpose of this project is to build a machine-learning model for automatic classification of user reviews. The dataset consists of **Digikala product comments** obtained from a dataset available on **Kaggle**.
+ADRESS:https://huggingface.co/HooshvareLab/bert-fa-base-uncased-sentiment-digikala?utm_source=chatgpt.com
 
 The model learns patterns from the training comments and then predicts whether a new comment belongs to the satisfied, average, or dissatisfied category.
 
